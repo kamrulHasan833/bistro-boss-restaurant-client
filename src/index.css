@@ -1,0 +1,24 @@
+/* import font family inter */
+
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700;800&display=swap");
+
+/* tailwind partials */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button[tabIndex="0"] {
+  color: #d99904;
+}
+ul.thumbs.animated {
+  text-align: center;
+}
+
+img.react-parallax-bgimage {
+  max-width: 1920px;
+  width: 100%;
+}
+
+/* .file-input::file-selector-button {
+  background-color: red;
+} */

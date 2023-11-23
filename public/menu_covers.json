@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "popular",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Necessitatibus, libero accusamus laborum deserunt ratione dolor officiis praesentium! Deserunt magni aperiam dolor eius dolore at, nihil iusto ducimus incidunt quibusdam nemo.",
+    "cover_image": "https://i.ibb.co/gRyRJQw/chef-service.jpg"
+  },
+  {
+    "id": 2,
+    "category": "offer",
+    "desc": "Would you like to try a dish?",
+    "cover_image": "https://i.ibb.co/RTf8m0Y/banner3.jpg"
+  },
+  {
+    "id": 3,
+    "category": "dessert",
+    "desc": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "cover_image": "https://i.ibb.co/86k8gfS/dessert-bg.jpg"
+  },
+  {
+    "id": 4,
+    "category": "pizza",
+    "desc": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "cover_image": "https://i.ibb.co/pfyTPBK/pizza-bg.jpg"
+  },
+  {
+    "id": 5,
+    "category": "salad",
+    "desc": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "cover_image": "https://i.ibb.co/5G2qJs3/salad-bg.jpg"
+  },
+  {
+    "id": 6,
+    "category": "soup",
+    "desc": "Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "cover_image": "https://i.ibb.co/7rPDJnf/soup-bg.jpg"
+  }
+]

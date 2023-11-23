@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Salads",
+    "image": "https://i.ibb.co/m9MJ0rF/slide5.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Soups",
+    "image": "https://i.ibb.co/71gjvdR/slide3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pizzas",
+    "image": "https://i.ibb.co/f24zxTf/slide2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Desserts",
+    "image": "https://i.ibb.co/7CfBYXG/slide4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Salads",
+    "image": "https://i.ibb.co/m9MJ0rF/slide5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Soups",
+    "image": "https://i.ibb.co/71gjvdR/slide3.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pizzas",
+    "image": "https://i.ibb.co/f24zxTf/slide2.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Desserts",
+    "image": "https://i.ibb.co/7CfBYXG/slide4.jpg"
+  }
+]
