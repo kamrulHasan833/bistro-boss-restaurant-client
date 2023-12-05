@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import useAuth from "./useAuth";
 
 const axiosInstance = axios.create({
-  baseURL: "http://localhost:5000",
+  baseURL: "https://bistro-boss-restaurant-server-puce-two.vercel.app",
 });
 const useAxiosPrivate = () => {
   const { signout } = useAuth();

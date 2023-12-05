@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "http://localhost:5000",
+  baseURL: "https://bistro-boss-restaurant-server-puce-two.vercel.app",
 });
 const useAxiosPublic = () => {
   return axiosInstance;

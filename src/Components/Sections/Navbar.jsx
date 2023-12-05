@@ -21,7 +21,7 @@ function Navbar() {
       ))}
     </>
   );
-  console.log(user);
+
   return (
     <div className="navbar bg-black bg-opacity-50 z-20 fixed left-0 right-0 top-0 px-6 md:px-10 xl:px-12 py-4 max-w-large mx-auto">
       <div className="navbar-start">
